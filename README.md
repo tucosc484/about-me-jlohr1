@@ -8,3 +8,5 @@
 
 ## What programming experience do you have? Do you have any web experience?
         I have been coding in Java for almost four years. I have had a few short experiences with HTML and Javascript from COSC 109 and a little from my group Software Engineering project.
+
+[Link to my CodeAcademy](https://www.codecademy.com/jlohr1)
